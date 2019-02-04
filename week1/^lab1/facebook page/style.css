@@ -160,10 +160,6 @@ table {
     height: 200px;
 }
 
-td {
-
-}
-
 .signup {
     text-align: left;
     font-size: 36px;
@@ -171,12 +167,6 @@ td {
     font-weight: 700;
     margin-bottom: 5px;
     margin-top: 15px;
-}
-
-.bolder {
-    font-family: 'Open Sans', sans-serif;
-    text-rendering: optimizelegibility;
-    color: #333;
 }
 
 .free {
@@ -187,7 +177,7 @@ td {
     margin-bottom: 20px;
 }
 
-.formbox {
+.form {
     text-align: left;
     display: inline-block;
     width: 399px;
@@ -204,32 +194,17 @@ td {
     margin-bottom: 10px;
 }
 
-::-webkit-input-placeholder {
-    color: #999;
-}
-
-::-moz-placeholder {
-    color: #999;
-}
-
-:-ms-input-placeholder {
-    color: #999;
-}
-
-.in1 {
+#first-name {
     width: 172px;
 }
 
-.in2 {
-    width: 377px;
-}
-
-.fr {
+#last-name {
+    width: 172px;
     float: right;
 }
 
-.fl {
-    float: left;
+.under {
+    width: 377px;
 }
 
 .bday {
@@ -249,6 +224,7 @@ td {
     font-size: 13px;
     border: 1px solid #bdc7d8;
     color: #141823;
+    float: left;
 
 }
 
@@ -261,7 +237,7 @@ td {
 }
 
 .copyright {
-    clear:both;
+    clear: both;
     width: 980px;
     margin: 0px auto;
     padding: 10px;
@@ -279,7 +255,7 @@ td {
     font-weight: normal;
 }
 
-.spanpad {
+.span-sex {
     padding: 5px 0 5px 4px;
     display: inline-block;
 }
@@ -288,9 +264,6 @@ td {
     margin-top: 15px;
 }
 
-.m0 {
-    margin: 0;
-}
 
 .agree {
     line-height: 1.34;
@@ -311,7 +284,7 @@ td {
     text-decoration: underline;
 }
 
-.signbut {
+.sign-button {
     font-size: 19px;
     font-weight: 700;
     letter-spacing: 1px;
@@ -332,7 +305,7 @@ td {
     cursor: pointer;
 }
 
-.signbut:hover {
+.sign-button:hover {
     background: -webkit-linear-gradient(#79bc64, #578843);
 }
 
