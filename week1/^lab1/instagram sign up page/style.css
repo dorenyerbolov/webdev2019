@@ -1,0 +1,170 @@
+.phone {
+    padding-top: 70px;
+    height: 650px;
+    float: right;
+    margin: 10px;
+}
+
+body {
+    background-color: #fafafa !important;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.right-column {
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+    padding: 40px;
+}
+
+.instagram-logo {
+    margin: 15px auto;
+    width: 175px;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #212529;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375em .75em;
+    font-size: 1em;
+    line-height: 1.5;
+    border-radius: .25em;
+}
+
+#sign-up-button {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #3897f0;
+    border-color: #3897f0;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+button img {
+    height: 16px;
+    padding: 0px 8px 6px;
+}
+
+.or-para {
+    margin-top: 8px;
+    font-size: 13px;
+    color: #999;
+    font-weight: 600;
+}
+
+.or-para::before {
+    content: '';
+    background: #efefef;
+    display: block;
+    height: 2px;
+    width: 110px;
+    position: relative;
+    top: 12px;
+}
+
+.or-para::after {
+    content: '';
+    background: #efefef;
+    display: block;
+    height: 2px;
+    width: 110px;
+    position: relative;
+    bottom: 10px;
+    left: 160px;
+}
+
+.form-inputs {
+    display: block;
+    width: 100%;
+    height: 2.95em;
+    padding: .375em .75em;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fafafa;
+    background-clip: padding-box;
+    border: 1px solid #efefef;
+    border-radius: .25em;
+}
+
+.form-input-block {
+    margin-bottom: 0.4em;
+}
+
+.terms {
+    line-height: 18px;
+    font-size: 14px;
+    color: #999;
+    margin: 15px 20px;
+}
+
+a.terms-highlightened {
+    color: #999;
+}
+
+a.terms-highlightened:hover {
+    color: #999;
+    text-decoration: none;
+}
+
+.right-column-login {
+    background-color: #fff;
+    border: 1px solid #e6e6e6;
+    width: 350px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.right-column-login a:hover {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.foot-wrapper {
+    width: 100%;
+    min-width: 980px;
+}
+
+.content {
+    width: 980px;
+    margin: 0px auto;
+}
+
+.list-el {
+    font-size: 12px;
+    margin-top: 10px;
+    float: left;
+    padding: 0px 5px;
+    color: #003569;
+    cursor: pointer;
+}
+
+.copyright {
+    margin: 10px 0 0 43px;
+    clear: both;
+    float: left;
+    color: #999;
+}
