@@ -9,20 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="true" selection-end-line="15" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,60 +18,63 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/functions/A.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/A.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/B.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/C.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/D.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/E.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/F.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/G.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/A.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/B.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/C.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/D.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/E.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/B.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/C.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/A.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/D.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/E.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/A.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/B.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/C.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/D.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/E.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/A.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/B.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/C.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/G.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/H.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/I.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/J.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/K.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/M.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Say Hello, World! With Python.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Python Division.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Loops.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Print Function.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Find the Runner-Up Score!.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Nested Lists.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Finding the percentage.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Tuples.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/What's Your Name.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/sWAP cASE.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Text Wrap.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/String Split and Join.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Arithmetic operations.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Mod Divmod.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Mutations.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Find a string.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/String Validators.py" />
+        <option value="$PROJECT_DIR$/informatics/arrays/F.py" />
+        <option value="$PROJECT_DIR$/informatics/arrays/G.py" />
+        <option value="$PROJECT_DIR$/informatics/input-output/A.py" />
+        <option value="$PROJECT_DIR$/informatics/input-output/B.py" />
+        <option value="$PROJECT_DIR$/informatics/input-output/C.py" />
+        <option value="$PROJECT_DIR$/informatics/input-output/D.py" />
+        <option value="$PROJECT_DIR$/informatics/input-output/E.py" />
+        <option value="$PROJECT_DIR$/informatics/conditions/B.py" />
+        <option value="$PROJECT_DIR$/informatics/conditions/C.py" />
+        <option value="$PROJECT_DIR$/informatics/conditions/A.py" />
+        <option value="$PROJECT_DIR$/informatics/conditions/D.py" />
+        <option value="$PROJECT_DIR$/informatics/conditions/E.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/while/A.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/while/B.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/while/C.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/while/D.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/while/E.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/A.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/B.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/C.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/G.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/H.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/I.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/J.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/K.py" />
+        <option value="$PROJECT_DIR$/informatics/loops/for/M.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Say Hello, World! With Python.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Python Division.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Loops.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Print Function.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Find the Runner-Up Score!.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Nested Lists.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Finding the percentage.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Tuples.py" />
+        <option value="$PROJECT_DIR$/hackerrank/What's Your Name.py" />
+        <option value="$PROJECT_DIR$/hackerrank/sWAP cASE.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Text Wrap.py" />
+        <option value="$PROJECT_DIR$/hackerrank/String Split and Join.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Arithmetic operations.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Mod Divmod.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Mutations.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Find a string.py" />
+        <option value="$PROJECT_DIR$/hackerrank/String Validators.py" />
         <option value="$PROJECT_DIR$/main.py" />
-        <option value="$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Capitalize!.py" />
+        <option value="$PROJECT_DIR$/hackerrank/Capitalize!.py" />
+        <option value="$PROJECT_DIR$/codingbat/logic_1/alarm_clock.py" />
+        <option value="$PROJECT_DIR$/codingbat/logic_1/near_ten.py" />
+        <option value="$PROJECT_DIR$/codingbat/logic_1/squirrel_play.py" />
+        <option value="$PROJECT_DIR$/codingbat/logic_2/make_bricks.py" />
+        <option value="$PROJECT_DIR$/codingbat/logic_2/no_teen_sums.py" />
+        <option value="$PROJECT_DIR$/codingbat/logic_2/make_chocolate.py" />
       </list>
     </option>
   </component>
@@ -94,30 +84,18 @@
     <option name="width" value="1400" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="newproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newproj" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="newproj" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -176,13 +154,9 @@
   <component name="ToolWindowManager">
     <frame x="397" y="55" width="1400" height="728" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.52100843" />
@@ -190,348 +164,302 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/E.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/F.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/arrays/G.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/C.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/D.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/E.py">
+    <entry file="file://$PROJECT_DIR$/informatics/input-output/E.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/B.py">
+    <entry file="file://$PROJECT_DIR$/informatics/input-output/B.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/D.py">
+    <entry file="file://$PROJECT_DIR$/informatics/conditions/D.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/E.py">
+    <entry file="file://$PROJECT_DIR$/informatics/conditions/E.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/input-output/A.py">
+    <entry file="file://$PROJECT_DIR$/informatics/input-output/A.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/A.py">
+    <entry file="file://$PROJECT_DIR$/informatics/conditions/A.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/B.py">
+    <entry file="file://$PROJECT_DIR$/informatics/conditions/B.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/conditions/C.py">
+    <entry file="file://$PROJECT_DIR$/informatics/conditions/C.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/B.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/while/B.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/C.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/while/C.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/D.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/while/D.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/E.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/while/E.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/while/A.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/while/A.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/A.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/A.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/B.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/B.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/C.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/C.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/G.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/G.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/I.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/I.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/J.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/J.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/H.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/H.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/K.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/K.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/informatics/loops/for/M.py">
+    <entry file="file://$PROJECT_DIR$/informatics/loops/for/M.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Python If-Else.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Python If-Else.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Say Hello, World! With Python.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Say Hello, World! With Python.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Python Division.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Python Division.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Loops.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Find the Runner-Up Score!.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Find the Runner-Up Score!.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Nested Lists.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Nested Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Finding the percentage.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Finding the percentage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Tuples.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Tuples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/What's Your Name.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/What's Your Name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/sWAP cASE.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/sWAP cASE.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Text Wrap.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Text Wrap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/String Split and Join (2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/String Split and Join (1).py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/String Split and Join.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/String Split and Join (2).py" />
+    <entry file="file://$PROJECT_DIR$/hackerrank/String Split and Join (1).py" />
+    <entry file="file://$PROJECT_DIR$/hackerrank/String Split and Join.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Arithmetic operations.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Arithmetic operations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Text Alignment.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Text Alignment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Mod Divmod.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Mod Divmod.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Mutations.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Mutations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Print Function.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Print Function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Find a string.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Find a string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/String Validators.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/String Validators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/STUDY/2NDDDDDDD/SPRING/WebDev/WebDevRepo/week10/hackerrank/Capitalize!.py">
+    <entry file="file://$PROJECT_DIR$/hackerrank/Capitalize!.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
@@ -541,13 +469,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/codingbat/logic_1/alarm_clock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-end-line="15" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/logic_1/near_ten.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/logic_1/squirrel_play.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/logic_2/make_bricks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/logic_2/no_teen_sums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codingbat/logic_2/make_chocolate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
         </state>
       </provider>
     </entry>
