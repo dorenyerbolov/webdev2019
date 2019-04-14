@@ -203,4 +203,5 @@ venv.bak/
 LICENSE.txt
 pyvenv.cfg
 .venv
+.idea
 pip-selfcheck.json
