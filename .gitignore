@@ -199,6 +199,8 @@ venv.bak/
 [Ll]ib64
 [Ll]ocal
 [Ss]cripts
+[Tt]cl
+LICENSE.txt
 pyvenv.cfg
 .venv
 pip-selfcheck.json
