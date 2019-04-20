@@ -1,0 +1,21 @@
+body {
+  margin: 0px auto;
+  text-align: center;
+  width: 10%;
+  height: 80px;
+}
+
+.task-list {
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: red;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+
+.tasks {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: greenyellow;
+    border-radius: 20px;
+}
