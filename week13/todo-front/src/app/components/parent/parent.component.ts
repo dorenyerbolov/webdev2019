@@ -1,6 +1,6 @@
 import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
-import { ProviderService } from '../shared/services/provider.service';
-import { ITaskList, ITask } from '../shared/models/models';
+import { ProviderService } from '../../services/provider.service';
+import { ITaskList, ITask } from '../../models/models';
 
 @Component({
   selector: 'app-parent',
@@ -17,14 +17,25 @@ export class ParentComponent implements OnInit {
   public tasks: ITask[] = [];
   public curTaskList = '';
   public loading = false;
+  public loggedIn = false;
+
+  public username: any = '';
+  public password: any = '';
 
   constructor(private provider: ProviderService) { }
 
   ngOnInit() {
-    this.provider.getTaskLists().then( res => {
-      this.taskLists = res;
-      this.loading = true;
-    }); 
+    let token = localStorage.getItem('token')
+    if (token) {
+      this.loggedIn = true;
+    }
+
+    if (this.loggedIn) {
+      this.provider.getTaskLists().then( res => {
+        this.taskLists = res;
+        this.loading = true;
+      }); 
+    }
   }
 
   getTasks(taskList: ITaskList) {
@@ -56,6 +67,28 @@ export class ParentComponent implements OnInit {
         this.taskLists.push(res);
       })
     }
+  }
+
+  auth() {
+    if (this.username !== '' && this.password !== ''){
+      this.provider.auth(this.username, this.password).then( res => {
+        localStorage.setItem('token', res.token);
+
+        this.loggedIn = true;
+
+        this.provider.getTaskLists().then( res => {
+          this.taskLists = res;
+          this.loading = true;
+        }); 
+      })
+    }
+  }
+
+  logout() {
+    this.provider.logout().then( res => {
+      localStorage.removeItem('token');
+      this.loggedIn = false;
+    })
   }
 
 }
